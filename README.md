@@ -15,3 +15,12 @@ Mocha, Sinon, Chai
 #### Responsive design
 
 Created responsive tailwind pages in Next.js using tailwind
+
+#### Firebase
+
+- Auth,
+- Realtime Database
+
+#### Google API
+
+Gmail api
