@@ -11,3 +11,7 @@ Mocha, Sinon, Chai
 #### Web Crawling
 
 ##### HTML parsing using puppeteer, linkedom
+
+#### Responsive design
+
+Created responsive tailwind pages in Next.js using tailwind
