@@ -4,12 +4,11 @@
 
 #### Databases
 
-Mysql
-Postgresql
-Mssql
-
-Mongo
-Redis
+- Mysql
+- Postgresql
+- Mssql
+- Mongo
+- Redis
 
 #### API frameworks
 
@@ -31,7 +30,7 @@ Redis
 
 #### Other
 
-Nearly Parserr
+- Nearly Parserr
 
 ### Frontend Frameworks
 
@@ -41,11 +40,14 @@ Nearly Parserr
 
 ##### Unit and Integration Testing
 
-Mocha, Sinon, Chai
+- Mocha
+- Sinon
+- Chai
 
 #### Web Crawling
 
-##### HTML parsing using puppeteer, linkedom
+- HTML parsing using puppeteer
+- linkedom
 
 #### Responsive design | WEEK-2
 
@@ -64,4 +66,4 @@ Created responsive tailwind pages in Next.js using tailwind
 
 - Supabase
 - Github Api
--
+- OpenAI (APIs - Chat and Text Completion, Whisper Trancription and Translations)
