@@ -2,7 +2,8 @@
 
 ## Earlier:
 
-### Databases
+#### Databases
+
 Mysql
 Postgresql
 Mssql
@@ -10,33 +11,29 @@ Mssql
 Mongo
 Redis
 
-### API frameworks
+#### API frameworks
 
 - Express.js
 - Apollo
 - Symphony(PHP)
 
-
-### HTML Templating Engines
+#### HTML Templating Engines
 
 - Handlebars
 - Twig
-- 
+-
 
-### Frontend Frameworks
+#### Frontend Frameworks
+
 - React
 - Angular
 - Vue
 
+#### Other
 
-
-### Other
 Nearly Parserr
 
-
 ### Frontend Frameworks
-
-
 
 ## MARCH 2023
 
@@ -63,9 +60,8 @@ Created responsive tailwind pages in Next.js using tailwind
 
 - Gmail api
 
-
 ## April 2023
 
 - Supabase
 - Github Api
-- 
+-
