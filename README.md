@@ -1,5 +1,43 @@
 # portfolio-related-assets
 
+## Earlier:
+
+### Databases
+Mysql
+Postgresql
+Mssql
+
+Mongo
+Redis
+
+### API frameworks
+
+- Express.js
+- Apollo
+- Symphony(PHP)
+
+
+### HTML Templating Engines
+
+- Handlebars
+- Twig
+- 
+
+### Frontend Frameworks
+- React
+- Angular
+- Vue
+
+
+
+### Other
+Nearly Parserr
+
+
+### Frontend Frameworks
+
+
+
 ## MARCH 2023
 
 #### Testing:
@@ -12,15 +50,22 @@ Mocha, Sinon, Chai
 
 ##### HTML parsing using puppeteer, linkedom
 
-#### Responsive design
+#### Responsive design | WEEK-2
 
 Created responsive tailwind pages in Next.js using tailwind
 
-#### Firebase
+#### Firebase | WEEK-4
 
 - Auth,
 - Realtime Database
 
-#### Google API
+#### Google API | WEEK-4
 
-Gmail api
+- Gmail api
+
+
+## April 2023
+
+- Supabase
+- Github Api
+- 
