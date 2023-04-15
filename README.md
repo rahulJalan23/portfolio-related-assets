@@ -31,6 +31,10 @@
 #### Other
 
 - Nearly Parserr
+- DocuSign, HelloSign API
+- Passport Google, Facebook
+- Facebook Graph API for Instagram Data
+- Mixpanel
 
 ### Frontend Frameworks
 
@@ -66,4 +70,7 @@ Created responsive tailwind pages in Next.js using tailwind
 
 - Supabase
 - Github Api
+- Figma Api
+- Zoom Api
 - OpenAI (APIs - Chat and Text Completion, Whisper Trancription and Translations)
+- Telegram Bots
