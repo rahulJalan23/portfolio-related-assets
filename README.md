@@ -74,3 +74,9 @@ Created responsive tailwind pages in Next.js using tailwind
 - Zoom Api
 - OpenAI (APIs - Chat and Text Completion, Whisper Trancription and Translations)
 - Telegram Bots
+
+
+## June 2023
+
+- Shopify App Development
+
