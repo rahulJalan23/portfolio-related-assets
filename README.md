@@ -25,6 +25,7 @@
 #### Frontend Frameworks
 
 - React
+- React Native(Expo)
 - Angular
 - Vue
 
@@ -78,5 +79,17 @@ Created responsive tailwind pages in Next.js using tailwind
 
 ## June 2023
 
+- Founded Development Agency: Techly Assist
 - Shopify App Development
+- WebScraping
+- Managed Proxy and OpenVpn for multiple servers
+- Learned about betting Industry and Diamond
+- 
+
+## July 2023
+
+- React Native Deep Dive (Native CLI)
+- Push Notifications - FCM, Pushy
+- Co-founded Agency - PAC
+
 
