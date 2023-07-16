@@ -26,19 +26,20 @@
 #### Frontend Frameworks
 
 - React
+- GQL
 - React Native(Expo)
-- Angular
-- Vue
+- Angular (Little Bit)
+- Vue 
 
 #### Other
 
-- Nearly Parserr
+- Nearly Parsers
 - DocuSign, HelloSign API
 - Passport Google, Facebook
 - Facebook Graph API for Instagram Data
 - Mixpanel
+- Did a project only on 'regex' once
 
-### Frontend Frameworks
 
 ## MARCH 2023
 
