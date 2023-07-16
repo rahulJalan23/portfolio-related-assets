@@ -20,7 +20,8 @@
 
 - Handlebars
 - Twig
--
+- Jinja
+- EJS
 
 #### Frontend Frameworks
 
