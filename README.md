@@ -88,7 +88,7 @@ Created responsive tailwind pages in Next.js using tailwind
 
 ## July 2023
 
-- React Native Deep Dive (Native CLI)
+- React Native Deep Dive (Native CLI) Fahrly.de
 - Push Notifications - FCM, Pushy
 - Co-founded Agency - PAC
 
