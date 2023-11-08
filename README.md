@@ -94,4 +94,18 @@ Created responsive tailwind pages in Next.js using tailwind
 - Push Notifications - FCM, Pushy
 - Co-founded Agency - PAC
 
+## August 2023
+- Supabase
+- Sortly API
+
+
+## October 2023
+- Stripe Integrations
+- Firebase Firestore, Functions, PubSub
+- Next.js in more depth
+- framer-motion
+
+## November 2023
+- A lot more frontend and designing stuff
+
 
