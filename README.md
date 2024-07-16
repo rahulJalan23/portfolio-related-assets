@@ -105,7 +105,29 @@ Created responsive tailwind pages in Next.js using tailwind
 - Next.js in more depth
 - framer-motion
 
-## November 2023
-- A lot more frontend and designing stuff
+## November & December 2023
 
+# 2025
+
+## January, February 2024
+
+
+## March, April, May 2024
+- ImageModels. Fine Tuning Image Models (DreamBooth)
+- GANs, ControlNet, LORAs
+- Pyhton Google Colabs
+- Stable Diffusion
+- GPUs for deploying models
+- Automatic 1111 WebUI, Foocus
+- SOFTWARE: Chatbot - charactertalk.club
+
+
+## June, July 2024
+- LLM, LangChain, LangGraph, Community Packages
+- Diffusion Models
+- Ollama
+- LangSmith
+- Agents and Agentic Flow
+- SOFTWARE: Automated Blog Generation with Text and Images, Genwrite.co
+- SOFTWARE: LMS for (K-12) Students and Teachers utilizing AI
 
