@@ -28,8 +28,8 @@
 - React
 - GQL
 - React Native(Expo)
-- Angular (Little Bit)
-- Vue 
+- Google Play Console Application Upload
+- Apple App Submission and Review Application Upload
 
 #### Other
 
