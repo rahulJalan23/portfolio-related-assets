@@ -108,7 +108,8 @@ Created responsive tailwind pages in Next.js using tailwind
 
 ## November & December 2023
 - Started Building Farragut Fixit: https://farragutfixit.com/ , https://farragutfixit.vercel.app/
-# 2025
+
+# 2024
 
 ## January, February 2024
 
