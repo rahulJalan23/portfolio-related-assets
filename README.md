@@ -100,13 +100,14 @@ Created responsive tailwind pages in Next.js using tailwind
 
 
 ## October 2023
+- Collaborated on MorePleaze: app.morepleaze.com
 - Stripe Integrations
 - Firebase Firestore, Functions, PubSub
 - Next.js in more depth
 - framer-motion
 
 ## November & December 2023
-
+- Started Building Farragut Fixit: https://farragutfixit.com/ , https://farragutfixit.vercel.app/
 # 2025
 
 ## January, February 2024
