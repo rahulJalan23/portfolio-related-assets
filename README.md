@@ -133,3 +133,7 @@ Created responsive tailwind pages in Next.js using tailwind
 - SOFTWARE: Automated Blog Generation with Text and Images, Genwrite.co
 - SOFTWARE: LMS for (K-12) Students and Teachers utilizing AI
 
+## August 2024
+- Medusa JS
+- FlowWrite (Collaborative and AI Story Suggession)
+
