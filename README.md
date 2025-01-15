@@ -148,9 +148,14 @@ Created responsive tailwind pages in Next.js using tailwind
 ## November 2024
 - Uproot.site
 - AI resume parsing
+- Admin and Employer Portals, Integrated Razorpay, 
+- Abilty to Generate Blogs
+- BlogSEO for next.js
 
 ## December 2024
 - AI Doctor (Universa Health, https://universa-healthcare-avatar.vercel.app/)
-- Run LLM on GPU
+- Run multiple LLM on GPU
+- AI Voice and Avatar custom solutions
+- AI Image diagnosis for health purposes
 
 
