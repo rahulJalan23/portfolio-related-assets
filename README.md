@@ -136,4 +136,21 @@ Created responsive tailwind pages in Next.js using tailwind
 ## August 2024
 - Medusa JS
 - FlowWrite (Collaborative and AI Story Suggession)
+- AI Editor, (Quill updates)
+
+## September 2024
+- Easypanel, n8n, Dify, Zapier, Make
+- AI Agents
+
+## October 2024
+- SMTP Servers Setup
+
+## November 2024
+- Uproot.site
+- AI resume parsing
+
+## December 2024
+- AI Doctor (Universa Health, https://universa-healthcare-avatar.vercel.app/)
+- Run LLM on GPU
+
 
