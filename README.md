@@ -138,11 +138,14 @@ Created responsive tailwind pages in Next.js using tailwind
 - FlowWrite (Collaborative and AI Story Suggession)
 - AI Editor, (Quill updates)
 
+
 ## September 2024
 - Easypanel, n8n, Dify, Zapier, Make
 - AI Agents
 
+
 ## October 2024
+- pinecone, chroma
 - SMTP Servers Setup
 
 ## November 2024
@@ -153,9 +156,30 @@ Created responsive tailwind pages in Next.js using tailwind
 - BlogSEO for next.js
 
 ## December 2024
-- AI Doctor (Universa Health, https://universa-healthcare-avatar.vercel.app/)
-- Run multiple LLM on GPU
+- AI Doctor (Universa Health, https://universa.org/healthcare)
+- Run multiple LLMs on GPU
 - AI Voice and Avatar custom solutions
 - AI Image diagnosis for health purposes
+- Learned and implemented Telegram APIs and bots
+
+## January 2025
 
 
+## February 2025
+
+
+## March 2025
+- univera.academy
+- Managed a team of 
+
+## April 2025
+- Uproot.site: Tons of update to this
+
+## May 2025
+- universa.academy: Docker and Kubernetes
+
+## June 2025
+- AI Coding Editor inside of universa.academy
+
+## July 2025
+- MelodyMind: AI music generator app, used Mureka API to create a quick MVP
