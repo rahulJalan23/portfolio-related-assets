@@ -163,10 +163,10 @@ Created responsive tailwind pages in Next.js using tailwind
 - Learned and implemented Telegram APIs and bots
 
 ## January 2025
-
+AI Doctor
 
 ## February 2025
-
+https://app.convolink.co.uk/
 
 ## March 2025
 - univera.academy
@@ -182,4 +182,4 @@ Created responsive tailwind pages in Next.js using tailwind
 - AI Coding Editor inside of universa.academy
 
 ## July 2025
-- MelodyMind: AI music generator app, used Mureka API to create a quick MVP
+- MelodyMind: AI music generator app, used Mureka API to create a quick MVP https://melodymind.co app.melodymind.co
