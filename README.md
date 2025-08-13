@@ -183,3 +183,11 @@ https://app.convolink.co.uk/
 
 ## July 2025
 - MelodyMind: AI music generator app, used Mureka API to create a quick MVP https://melodymind.co app.melodymind.co
+
+
+
+
+# Current Key achievements
+- Great progress on Universa.academy
+- Over 5000 users on uproot.site
+
