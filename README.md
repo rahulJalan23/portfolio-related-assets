@@ -170,7 +170,7 @@ https://app.convolink.co.uk/
 
 ## March 2025
 - univera.academy
-- Managed a team of 
+- Managed a team of 15 people
 
 ## April 2025
 - Uproot.site: Tons of update to this
