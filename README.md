@@ -1,5 +1,7 @@
 # portfolio-related-assets
 
+For the current, structured project and work-history source of truth, see [WORK_MEMORY.md](./WORK_MEMORY.md).
+
 ## Earlier:
 
 #### Databases
@@ -191,4 +193,3 @@ https://app.convolink.co.uk/
 # Current Key achievements
 - Great progress on Universa.academy
 - Over 5000 users on uproot.site
-
